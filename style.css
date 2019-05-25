@@ -1,0 +1,47 @@
+main{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+}
+#navbar{
+    background-color: #3f0e40;
+    color:white;
+}
+#input input{
+    background-color: white;
+}
+.nav{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+input{
+background-color:#260127;
+}
+li{
+    list-style: none;
+}
+.hr{
+ border:none;
+}
+.chat{
+    display: flex;
+    flex-direction: row;
+    align-items: start;
+}
+.chats{
+    display: flex;
+    flex-direction: row;
+    align-items: start;
+}
+.feedback{
+    display: flex;
+    flex-direction: row;
+    align-items: start;
+}
+.feedbk{
+    display: flex;
+    flex-direction: row;
+    align-items: start;
+
+}
