@@ -7,6 +7,21 @@ main{
     background-color: #3f0e40;
     color:white;
 }
+body{
+    margin:0;
+}
+.bell{
+    margin-top:20px;
+
+}
+.list{
+    margin-left: -40px;
+}
+#navigation{
+    margin-left: 18px;
+
+}
+
 #input input{
     background-color: white;
 }
