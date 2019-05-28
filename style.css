@@ -2,30 +2,48 @@ main{
     display: flex;
     flex-direction: row;
     justify-content: flex-start;
+    font-family: 'Lato', sans-serif;
+}
+.para{
+    margin-top: -33px;
 }
 #navbar{
     background-color: #3f0e40;
     color:white;
+}
+.c{
+    border: 1px solid green;
+    border-radius: 100%;
+    padding-top: 7px;
+    background-color: green;
+    padding-left: 3px;
 }
 body{
     margin:0;
 }
 .bell{
     margin-top:20px;
+    font-size:20px;
+    color:grey;
+}
 
+.drop-down{
+    margin-top:20px;
+    margin-left:-46px;
 }
 .list{
     margin-left: -40px;
 }
 #navigation{
     margin-left: 18px;
-
+    margin-right: 18px;
 }
 
 #input input{
     background-color: white;
 }
 .nav{
+    MArgin-top:0px;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
